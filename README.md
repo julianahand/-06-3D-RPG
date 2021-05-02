@@ -1,11 +1,9 @@
-# 3D-Character
+# 3D RPG
 
-An animated 3D character that can be used in the 3D-RPG project.
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+A 3D RPG simulator that allows you to train for the worse while being targeted by an enemy using animated players and assets.
 
 ## Implementation
 Created in Blender 2.9 and Godot 3.2
-
+Kennie, CC0 Textures, CGTrader
 ## Created By
-BL-MSCH-C220-S21
+Juliana Hand
